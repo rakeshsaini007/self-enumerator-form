@@ -1,0 +1,6 @@
+{
+  "name": "Enumerator Data Manager",
+  "description": "App for enumerators to manage building data from Google Sheets with auto-filled HLB and name.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
